@@ -1,3 +1,3 @@
 var today = "Saturday";
-var tomorrow = "Tuesday";
+var tomorrow = "Tuesdayyyyy";
 var weekend = "awesome";
