@@ -1,2 +1,2 @@
 var today = "Saturday";
-var tomorrow = "Tuesday";
+var tomorrow = "noDay";
